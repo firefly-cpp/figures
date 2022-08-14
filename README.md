@@ -1,6 +1,6 @@
 # figures
 
-The repository hosts a graphical material that [@rhododendrom](https://github.com/rhododendrom) and [@firefly-cpp](https://github.com/firefly-cpp) use for
+The repository hosts selected graphical material that [@rhododendrom](https://github.com/rhododendrom) and [@firefly-cpp](https://github.com/firefly-cpp) use for
 teaching materials. The whole material is licensed under the CC-BY-SA-4.0 licence.
 
 Feel free to use graphical material for your primary use (presentations,
