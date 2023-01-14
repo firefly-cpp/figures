@@ -1,0 +1,23 @@
+name: Create thumbnails
+on: [push]
+jobs:
+  build:
+    if: github.event.head_commit.message != 'Update README.md and image_thumbnails'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+      - name: generate_thumbnails
+        uses: KukovecRok/thumbnails-readme-action@v1.3
+      - uses: actions/upload-artifact@v3
+        with:
+          name: my-generated-thumbnails
+          path: |
+            README.md
+            image_thumbnails/**
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          add_options: '-A'
+          file_pattern: 'README.md image_thumbnails/*.png'
+          commit_message: "Update README.md and image_thumbnails"
