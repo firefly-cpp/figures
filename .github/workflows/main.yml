@@ -18,6 +18,8 @@ jobs:
             image_thumbnails/**
       - run: sudo chmod -R g+w image_thumbnails/
       - run: |
+          git config user.name 'KukovecRok'
+          git config user.email 'tatookie@users.noreply.github.com'
           git add -A
           git commit -m "Add untracked file during workflow"
       - name: Create Pull Request
