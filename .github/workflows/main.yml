@@ -17,7 +17,7 @@ jobs:
             README.md
             image_thumbnails/**
       - run: sudo chown -R $USER:$USER .
-        if: "!contains(github.event.head_commit.message, 'Generated image thumbnails')"
+        if: "!contains(github.event.head_commit.message, '/create-pull-request/patch')"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
