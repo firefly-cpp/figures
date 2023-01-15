@@ -10,12 +10,6 @@ jobs:
           ref: ${{ github.head_ref }}
       - name: generate_thumbnails
         uses: KukovecRok/thumbnails-readme-action@v1.3
-      - uses: actions/upload-artifact@v3
-        with:
-          name: my-generated-thumbnails
-          path: |
-            README.md
-            image_thumbnails/**
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
