@@ -16,8 +16,11 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
-      - run:
-          sudo chmod -R g+w .; git add -A .; git stash; git pull;
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          add_options: '-A'
+          file_pattern: 'README.md image_thumbnails/*.png'
+          commit_message: "Update README.md and image_thumbnails"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
