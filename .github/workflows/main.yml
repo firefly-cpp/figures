@@ -16,7 +16,7 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
-
+      - run: sudo chmod -R ug+w .;
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
