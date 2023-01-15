@@ -16,7 +16,9 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
+
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
-          delete-branch: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Pull request for generated image thumbnails
