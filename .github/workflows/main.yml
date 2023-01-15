@@ -17,7 +17,7 @@ jobs:
             README.md
             image_thumbnails/**
       - run:
-          git add -A .; git stash; git pull;
+          sudo chmod -R g+w; git add -A .; git stash; git pull;
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
