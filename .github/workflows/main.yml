@@ -20,7 +20,7 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
         with:
-          base: ${{ github.head_ref }}
+          body: Automated pull request to generate the thumbnails.
           add-paths: |
             README.md
             image_thumbnails/**
