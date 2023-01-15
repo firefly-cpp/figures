@@ -16,11 +16,10 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
-      - run: |
-          git add -A
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           add-paths: |
             README.md
             image_thumbnails/**
+            image_thumbnails/*
