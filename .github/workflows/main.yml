@@ -17,8 +17,9 @@ jobs:
             README.md
             image_thumbnails/**
       - run: sudo chmod -R g+w image_thumbnails/
+      - uses: actions/checkout@v3
+        run: |
+          git add -A
+          git commit -m "Add untracked file during workflow"
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4.2.3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: Pull request for generated image thumbnails
