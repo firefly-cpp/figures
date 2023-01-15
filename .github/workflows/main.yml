@@ -16,10 +16,8 @@ jobs:
           path: |
             README.md
             image_thumbnails/**
-      - uses: actions/checkout@v3
       - run: |
           sudo chmod -R g+w image_thumbnails/
-          git add -A
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
