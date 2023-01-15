@@ -21,4 +21,4 @@ jobs:
         with:
           add-paths: |
             README.md
-            image_thumbnails/**
+            image_thumbnails/*.png
