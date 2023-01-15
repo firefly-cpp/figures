@@ -20,6 +20,7 @@ Material in this folder is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
+
 # Generated Thumbnails
 ![yesod-frameworkhello_yesod](/image_thumbnails/png_hello_yesod_thumb.png)
 ![yesod-frameworkpopularnost-haskell](/image_thumbnails/png_popularnost-haskell_thumb.png)
