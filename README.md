@@ -24,6 +24,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Generated Thumbnails
 [![ARM_store](/image_thumbnails/pdf_ARM_store_thumb.png)](association-rule-mining/ARM_store.pdf)
 [![arm-pipeline](/image_thumbnails/pdf_arm-pipeline_thumb.png)](association-rule-mining/arm-pipeline.pdf)
