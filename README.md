@@ -24,6 +24,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Generated Thumbnails
 [![ARM_store](/image_thumbnails/pdf_ARM_store_thumb.png)](association-rule-mining/ARM_store.pdf)
 [![arm-pipeline](/image_thumbnails/pdf_arm-pipeline_thumb.png)](association-rule-mining/arm-pipeline.pdf)
@@ -86,3 +87,4 @@ Material in this folder is licensed under a
 [![VariancaPristranskost](/image_thumbnails/pdf_VariancaPristranskost_thumb.png)](classification/VariancaPristranskost.pdf)
 [![PodatkovnaUcnaValidacijskaTestnaMnozica](/image_thumbnails/pdf_PodatkovnaUcnaValidacijskaTestnaMnozica_thumb.png)](classification/PodatkovnaUcnaValidacijskaTestnaMnozica.pdf)
 [![podrocja-strojnega-ucenja](/image_thumbnails/pdf_podrocja-strojnega-ucenja_thumb.png)](classification/podrocja-strojnega-ucenja.pdf)
+[![OS_no_attribution](/image_thumbnails/pdf_OS_no_attribution_thumb.png)](other/OS_no_attribution.pdf)
