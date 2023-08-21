@@ -26,6 +26,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Generated Thumbnails
 [![digital-twin-model](/image_thumbnails/png_digital-twin-model_thumb.png)](digital-twin/model-EN/digital-twin-model.png)
 [![digital-twin-model](/image_thumbnails/svg_digital-twin-model_thumb.png)](digital-twin/model-EN/digital-twin-model.svg)
