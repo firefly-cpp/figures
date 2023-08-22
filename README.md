@@ -26,7 +26,8 @@ Material in this folder is licensed under a
 
 
 
-# Generated Thumbnails
+
+# Thumbnails
 [![digital-twin-model](/image_thumbnails/png_digital-twin-model_thumb.png)](digital-twin/model-EN/digital-twin-model.png)
 [![digital-twin-model](/image_thumbnails/svg_digital-twin-model_thumb.png)](digital-twin/model-EN/digital-twin-model.svg)
 [![digital-twin-model](/image_thumbnails/png_digital-twin-model_thumb.png)](digital-twin/model-SI/digital-twin-model.png)
@@ -89,3 +90,21 @@ Material in this folder is licensed under a
 [![VariancaPristranskost](/image_thumbnails/pdf_VariancaPristranskost_thumb.png)](classification/VariancaPristranskost.pdf)
 [![metrike](/image_thumbnails/pdf_metrike_thumb.png)](classification/metrike.pdf)
 [![BSD](/image_thumbnails/pdf_BSD_thumb.png)](other/BSD.pdf)
+[![OS](/image_thumbnails/svg_OS_thumb.png)](other/OS.svg)
+[![hvala](/image_thumbnails/pdf_hvala_thumb.png)](other/hvala.pdf)
+[![BSD_attribution](/image_thumbnails/pdf_BSD_attribution_thumb.png)](other/BSD_attribution.pdf)
+[![LinuxDistro](/image_thumbnails/svg_LinuxDistro_thumb.png)](other/LinuxDistro.svg)
+[![PortaliInSistemiZnanja_logotipi_no_attribution](/image_thumbnails/pdf_PortaliInSistemiZnanja_logotipi_no_attribution_thumb.png)](other/PortaliInSistemiZnanja_logotipi_no_attribution.pdf)
+[![niapy_logo](/image_thumbnails/png_niapy_logo_thumb.png)](other/niapy_logo.png)
+[![LinuxDistro](/image_thumbnails/pdf_LinuxDistro_thumb.png)](other/LinuxDistro.pdf)
+[![BSD_no_attribution](/image_thumbnails/pdf_BSD_no_attribution_thumb.png)](other/BSD_no_attribution.pdf)
+[![OS_no_attribution](/image_thumbnails/pdf_OS_no_attribution_thumb.png)](other/OS_no_attribution.pdf)
+[![LinuxDistro_attribution](/image_thumbnails/svg_LinuxDistro_attribution_thumb.png)](other/LinuxDistro_attribution.svg)
+[![LinuxDistro_attribution](/image_thumbnails/pdf_LinuxDistro_attribution_thumb.png)](other/LinuxDistro_attribution.pdf)
+[![BSD_attribution](/image_thumbnails/svg_BSD_attribution_thumb.png)](other/BSD_attribution.svg)
+[![PortaliInSistemiZnanja_logotipi](/image_thumbnails/pdf_PortaliInSistemiZnanja_logotipi_thumb.png)](other/PortaliInSistemiZnanja_logotipi.pdf)
+[![BSD](/image_thumbnails/svg_BSD_thumb.png)](other/BSD.svg)
+[![vprasaj](/image_thumbnails/pdf_vprasaj_thumb.png)](other/vprasaj.pdf)
+[![OS](/image_thumbnails/pdf_OS_thumb.png)](other/OS.pdf)
+[![OS_no_attribution](/image_thumbnails/svg_OS_no_attribution_thumb.png)](other/OS_no_attribution.svg)
+[![nevronska-mreza-primer](/image_thumbnails/pdf_nevronska-mreza-primer_thumb.png)](neural-network/nevronska-mreza-primer.pdf)
