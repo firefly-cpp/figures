@@ -28,13 +28,14 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
-[![awk_1](/image_thumbnails/svg_awk_1_thumb.png)](awk_1.svg)
-[![awk_2](/image_thumbnails/pdf_awk_2_thumb.png)](awk_2.pdf)
-[![awk_2](/image_thumbnails/svg_awk_2_thumb.png)](awk_2.svg)
-[![awk_1](/image_thumbnails/pdf_awk_1_thumb.png)](awk_1.pdf)
 [![smart_watch_and_ant+](/image_thumbnails/jpg_smart_watch_and_ant+_thumb.png)](hardware/smart_watch_and_ant+.jpg)
 [![jumper-wires](/image_thumbnails/jpg_jumper-wires_thumb.png)](hardware/jumper-wires.JPG)
+[![awk_1](/image_thumbnails/svg_awk_1_thumb.png)](linux/awk_1.svg)
+[![awk_2](/image_thumbnails/pdf_awk_2_thumb.png)](linux/awk_2.pdf)
+[![awk_2](/image_thumbnails/svg_awk_2_thumb.png)](linux/awk_2.svg)
+[![awk_1](/image_thumbnails/pdf_awk_1_thumb.png)](linux/awk_1.pdf)
 [![rudar](/image_thumbnails/png_rudar_thumb.png)](data-mining/rudar.png)
 [![one-hot-encoding](/image_thumbnails/pdf_one-hot-encoding_thumb.png)](data-mining/preprocessing/one-hot-encoding.pdf)
 [![ordinal-encoding](/image_thumbnails/pdf_ordinal-encoding_thumb.png)](data-mining/preprocessing/ordinal-encoding.pdf)
