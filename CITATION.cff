@@ -1,0 +1,22 @@
+authors:
+- family-names: Fister, Jr.
+  given-names: Iztok
+  orcid: 0000-0002-6418-1272
+- family-names: Fister
+  given-names: "Du\u0161an"
+  orcid: 0000-0002-9604-0554
+- family-names: "Raj\u0161p"
+  given-names: Alen
+  orcid: 0000-0003-3219-018X
+- family-names: "Luka\u010D"
+  given-names: Luka
+  orcid: 0000-0003-4691-5401
+cff-version: 1.2.0
+date-released: '2024-01-10'
+doi: 10.5281/zenodo.10479320
+license:
+- cc-by-4.0
+repository-code: https://github.com/firefly-cpp/figures/tree/1.0
+title: 'firefly-cpp/figures: 1.0'
+type: software
+version: '1.0'

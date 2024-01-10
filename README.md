@@ -1,11 +1,19 @@
 # figures
 
+---
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10479320.svg)](https://doi.org/10.5281/zenodo.10479320)
+
 The repository hosts selected graphical material that [@rhododendrom](https://github.com/rhododendrom) and [@firefly-cpp](https://github.com/firefly-cpp) use for
 teaching materials. The whole material is licensed under the CC-BY-SA-4.0 licence.
 
 Feel free to use graphical material for your primary use (presentations,
 papers, thesis) with correct attribution to this repository or the
 primary source indicated for any specific figure from this repository.
+
+# Cite us
+
+Fister, Jr., I., & Fister, D. (2024). firefly-cpp/figures: 1.0 (1.0). Zenodo. [https://doi.org/10.5281/zenodo.10479320](https://doi.org/10.5281/zenodo.10479320)
 
 # License
 
