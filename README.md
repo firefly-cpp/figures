@@ -38,6 +38,7 @@ Material in this folder is licensed under a
 
 
 
+
 # Thumbnails
 [![LinuxDistro](/image_thumbnails/pdf_LinuxDistro_thumb.png)](other/LinuxDistro.pdf)
 [![BSD_no_attribution](/image_thumbnails/pdf_BSD_no_attribution_thumb.png)](other/BSD_no_attribution.pdf)
@@ -49,6 +50,7 @@ Material in this folder is licensed under a
 [![OS_no_attribution](/image_thumbnails/pdf_OS_no_attribution_thumb.png)](other/OS_no_attribution.pdf)
 [![BSD_attribution](/image_thumbnails/svg_BSD_attribution_thumb.png)](other/BSD_attribution.svg)
 [![OS](/image_thumbnails/svg_OS_thumb.png)](other/OS.svg)
+[![ironman-drafting](/image_thumbnails/pdf_ironman-drafting_thumb.png)](other/ironman-drafting.pdf)
 [![LinuxDistro](/image_thumbnails/svg_LinuxDistro_thumb.png)](other/LinuxDistro.svg)
 [![niapy_logo](/image_thumbnails/png_niapy_logo_thumb.png)](other/niapy_logo.png)
 [![BSD](/image_thumbnails/svg_BSD_thumb.png)](other/BSD.svg)
@@ -69,6 +71,7 @@ Material in this folder is licensed under a
 [![ants](/image_thumbnails/pdf_ants_thumb.png)](nature-inspired-algorithms/ants.pdf)
 [![natural_evolution_bears](/image_thumbnails/png_natural_evolution_bears_thumb.png)](nature-inspired-algorithms/natural_evolution_bears.png)
 [![ring4](/image_thumbnails/pdf_ring4_thumb.png)](nature-inspired-algorithms/ring4.pdf)
+[![evolutionary_algorithms](/image_thumbnails/pdf_evolutionary_algorithms_thumb.png)](nature-inspired-algorithms/evolutionary_algorithms.pdf)
 [![natural_evolution_bears](/image_thumbnails/pdf_natural_evolution_bears_thumb.png)](nature-inspired-algorithms/natural_evolution_bears.pdf)
 [![natural_evolution_bears_small](/image_thumbnails/png_natural_evolution_bears_small_thumb.png)](nature-inspired-algorithms/natural_evolution_bears_small.png)
 [![awk_2](/image_thumbnails/pdf_awk_2_thumb.png)](linux/awk_2.pdf)
