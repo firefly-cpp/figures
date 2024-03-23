@@ -15,7 +15,7 @@ jobs:
           name: my-generated-thumbnails
           path: |
             README.md
-            poster_thumbnails/**
+            image_thumbnails/**
       - run: sudo chown -R $USER:$USER .;
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v6
